@@ -8,4 +8,4 @@
 ## model:
 - detection part: using faster rcnn and load checkpoints from pretrained model.
 - pose part: using resNet_50 and change input size as 256x256, output size as 64x64. Trained from pretrained model for 17 coco model.
-- more detail see train.py
+- more detail see train_model.py
